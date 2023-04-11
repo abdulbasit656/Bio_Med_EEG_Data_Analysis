@@ -2,7 +2,7 @@
 
 Biomedical Robotics 2022 Practical Activity
 
-##EEG data analysis
+## EEG data analysis
 
 1. Download the EEG files .set and .fdt from Teams
 2. Load the EEG file (.set) on EEGLAB
